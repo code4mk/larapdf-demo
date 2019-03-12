@@ -72,10 +72,8 @@
     </htmlpageheader>
 
     <htmlpagefooter name="firstpagefooter" style="display:none;">
-      <div class="" style="color:red;background:green">
-        <p>m</p>
-        <p>m</p>
-        <p>m</p>
+      <div class="">
+        <div style="text-align: center; font-style: italic;">Payment terms: payment due in 30 d</div>
         <div style="text-align:left;border-top:2px solid black;">address: 105/2 nandoni 3rd floor, sukrabad,dhanmondi dhaka. website: https://thedoctorbd.xyz , phone: 2562526| page-{PAGENO}</div>
       </div>
 
@@ -136,7 +134,7 @@
     <td>p.c | a.c</td>
     <td class="cost">0+1+0</td>
     </tr>
-    <tr>
+    <!-- <tr>
     <td >Napa Extra 500mg</td>
 
     <td>antibiotic</td>
@@ -144,7 +142,7 @@
 <td >7 d</td>
     <td>p.c | a.c</td>
     <td class="cost">0+1+0</td>
-    </tr>
+    </tr> -->
 
     <tr>
     <td >Napa Extra 500mg</td>
@@ -339,7 +337,7 @@
 
 
 
-    <div style="text-align: center; font-style: italic;">Payment terms: payment due in 30 d</div>
+
 
     <pagebreak>
       <div class="important-info">
